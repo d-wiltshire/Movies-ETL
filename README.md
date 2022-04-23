@@ -25,13 +25,3 @@ The fourth deliverable involved using Python, Pandas, the ETL process, code refa
 
 
 
-### Major Takeaways
-
-
-
-
-
-## Summary
-
-
-
